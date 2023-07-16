@@ -1,0 +1,2 @@
+Hello, this is trial for writing text directly from jupyter notebook.
+This is the nect line of the same file.
